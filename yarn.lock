@@ -2,17 +2,16 @@
 # yarn lockfile v1
 
 
+"@AdilAmanat/ckeditor-classic-strapi-wysiwyg@https://github.com/AdilAmanat/ckeditor-classic-strapi-wysiwyg.git#main":
+  version "1.8.4"
+  resolved "https://github.com/AdilAmanat/ckeditor-classic-strapi-wysiwyg.git#eab4b8a078a5e7350df28269eeb7db57654fdc16"
+
 "@ckeditor/ckeditor5-react@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-react/-/ckeditor5-react-3.0.2.tgz#257466959cf5c6e16ed3dd3afe860e4c177dd156"
-  integrity sha512-hOAREzVUp8dwE8vV8qgxIGBOJzaxCm8N2aEhtbCq6QZbGLW9dckdfGKVmbtgEnCQgueVXEUqfDyUIXM6LtXDHA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-react/-/ckeditor5-react-3.0.3.tgz#7b2d2634bd70a1efcb837dde5a9ac3ed2d839fbc"
+  integrity sha512-Zaazd9Brg64v1Q2qQNtbfryWeVLzXWlNbswLsOYwNgvHlxroa8+F7ZE33M2O8zxcL6sQHZ1vCNkQOPRUBG8pqA==
   dependencies:
     prop-types "^15.7.2"
-
-"@toantk911/ckeditor5-build-strapi-wysiwyg@1.8.4":
-  version "1.8.4"
-  resolved "https://registry.yarnpkg.com/@toantk911/ckeditor5-build-strapi-wysiwyg/-/ckeditor5-build-strapi-wysiwyg-1.8.4.tgz#4ea50b7f82eb6db4af7cadb6daa2ead6ae550a87"
-  integrity sha512-LQghwRMbFQsUU5McIZB27rkvvnl0vSoNMjpqpPrcyqOI5ecUWijoqJCwKACVPo5W55C76KDqsNsedUMfQY+TAg==
 
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
