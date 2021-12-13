@@ -48,9 +48,6 @@
     "type": "git",
     "url": "git://github.com/AdilAmanat/strapi-plugin-ckeditor-markdown.git"
   },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
   "engines": {
     "node": ">=10.0.0",
     "npm": ">=6.0.0"
