@@ -2,7 +2,7 @@
 
 Replace default [Strapi](https://github.com/strapi/strapi) markdown WYSIWYG editor with enhanced build of HTML [CKEditor 5](https://github.com/ckeditor/ckeditor5).
 
-![strapi-plugin-ckeditor5](sample/strapi-plugin-ckeditor5.png)
+![strapi-plugin-ckeditor5](sample/strapi-plugin-ckeditor.png)
 
 *Sample for [this](https://faryaros.com/articles/it2021) article.*
 
