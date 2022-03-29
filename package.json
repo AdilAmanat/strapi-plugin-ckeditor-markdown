@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-ckeditor-markdown",
-  "version": "1.8.4",
+  "version": "1.0.2",
   "description": "Replace Strapi default WYSIWYG editor with enhanced build of CKEditor 5",
   "private": false,
   "keywords": [
@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-react": "^3.0.2",
-    "@AdilAmanat/ckeditor-classic-strapi-wysiwyg": "https://github.com/AdilAmanat/ckeditor-classic-strapi-wysiwyg.git#main"
+    "@adilamanat/ckeditor-classic-strapi-wysiwyg": "^1.0.0"
   },
   "author": {
     "name": "Adil Amanat ",
@@ -46,7 +46,7 @@
   "bugs": "https://github.com/AdilAmanat/strapi-plugin-ckeditor-markdown/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdilAmanat/strapi-plugin-ckeditor-markdown.git"
+    "url": "git://github.com/AdilAmanat/strapi-plugin-ckeditor-markdown.git"
   },
   "engines": {
     "node": ">=10.0.0",

@@ -2,7 +2,7 @@
 
 Replace default [Strapi](https://github.com/strapi/strapi) markdown WYSIWYG editor with enhanced build of HTML [CKEditor 5](https://github.com/ckeditor/ckeditor5).
 
-![strapi-plugin-ckeditor5](sample/strapi-plugin-ckeditor5.png)
+![strapi-plugin-ckeditor5](sample/strapi-plugin-ckeditor.png)
 
 *Sample for [this](https://faryaros.com/articles/it2021) article.*
 
@@ -84,11 +84,11 @@ module.exports = ({
 
 ### Default configuration
 
-For information and inspiration: default editor configuration defined [here](https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg/blob/e259d72cfc611a0f03aaa7686865412f421fc49c/src/ckeditor.js#L78).
+For information and inspiration: default editor configuration defined [here](https://github.com/AdilAmanat/ckeditor-classic-strapi-wysiwyg/blob/e259d72cfc611a0f03aaa7686865412f421fc49c/src/ckeditor.js#L78).
 
 
 ## How to add more features to the editor
-If you want to see more features in this plugin feel free to request it in [issues](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5/issues) or create pull request in the [ckeditor5-build-strapi-wysiwyg](https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg) repo. Together we will build a comprehensive editor for common needs.
+If you want to see more features in this plugin feel free to request it in [issues](https://github.com/AdilAmanat/strapi-plugin-ckeditor-markdown/issues) or create pull request in the [ckeditor-build-strapi-wysiwyg](https://github.com/AdilAmanat/ckeditor-classic-strapi-wysiwyg) repo. Together we will build a comprehensive editor for common needs.
 
 
 ## Acknowledgement
@@ -98,8 +98,8 @@ This plugin uses some code from [official manual](https://strapi.io/documentatio
 
 ## Links
 
-- [NPM package](https://www.npmjs.com/package/strapi-plugin-ckeditor5)
-- [GitHub repository](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5)
+- [NPM package](https://www.npmjs.com/package/strapi-plugin-ckeditor-markdown)
+- [GitHub repository](https://github.com/AdilAmanat/strapi-plugin-ckeditor-markdown)
 
 
 ## ⭐️ Show your support

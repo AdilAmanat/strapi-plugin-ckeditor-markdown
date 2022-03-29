@@ -1,27 +1,27 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { CKEditor } from '@ckeditor/ckeditor5-react';
-import ClassicEditor from '@AdilAmanat/ckeditor-classic-strapi-wysiwyg';
+import ClassicEditor from '@adilamanat/ckeditor-classic-strapi-wysiwyg';
 import styled from 'styled-components';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/ar';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/cs';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/de';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/es';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/fr';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/id';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/it';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/ko';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/nl';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/pl';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/pt';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/pt-br';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/ru';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/sk';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/th';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/tr';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/uk';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/vi';
-import '@AdilAmanat/ckeditor-classic-strapi-wysiwyg/build/translations/zh';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/ar';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/cs';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/de';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/es';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/fr';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/id';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/it';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/ko';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/nl';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/pl';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/pt';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/pt-br';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/ru';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/sk';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/th';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/tr';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/uk';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/vi';
+import '@adilamanat/ckeditor-classic-strapi-wysiwyg/build/translations/zh';
 
 
 const Wrapper = styled.div`
